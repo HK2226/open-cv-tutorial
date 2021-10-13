@@ -7,3 +7,7 @@
   * Reflection
   * Rotate
   * Text
+* 3 :
+  * Web Cam Access
+  * Video Clip Playing
+  * Eye detection in picture 
