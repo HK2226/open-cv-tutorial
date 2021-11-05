@@ -7,6 +7,7 @@
   * Reflection
   * Rotate
   * Text
+  * Black Screen - Line, Circle (solid/normal), Rectangle, Text, Polygon
 * 3 :
   * Web Cam Access
   * Video Clip Playing
