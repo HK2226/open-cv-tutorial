@@ -9,6 +9,7 @@
   * Text
   * Black Screen - Line, Circle (solid/normal), Rectangle, Text, Polygon
   * Using Mouse to Draw Circle in a Black Screen
+  * Drawing rectangle dynamically by dragging the mouse
 * 3 :
   * Web Cam Access
   * Video Clip Playing
